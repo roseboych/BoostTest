@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoostTest", "BoostTest\BoostTest.vcxproj", "{C4C44406-556D-444D-9A61-33B357521DB6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoostExample", "BoostExample\BoostExample.vcxproj", "{0A1C6863-2DED-4E6C-A11E-E2C4E5D822E5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SharedPtr", "BoostExample\BoostExample.vcxproj", "{0A1C6863-2DED-4E6C-A11E-E2C4E5D822E5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SharedPtrSample", "SharedPtrSample\SharedPtrSample.vcxproj", "{4EB40CD1-052D-47FF-9E78-233BB79DDB72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0A1C6863-2DED-4E6C-A11E-E2C4E5D822E5}.Debug|Win32.Build.0 = Debug|Win32
 		{0A1C6863-2DED-4E6C-A11E-E2C4E5D822E5}.Release|Win32.ActiveCfg = Release|Win32
 		{0A1C6863-2DED-4E6C-A11E-E2C4E5D822E5}.Release|Win32.Build.0 = Release|Win32
+		{4EB40CD1-052D-47FF-9E78-233BB79DDB72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EB40CD1-052D-47FF-9E78-233BB79DDB72}.Debug|Win32.Build.0 = Debug|Win32
+		{4EB40CD1-052D-47FF-9E78-233BB79DDB72}.Release|Win32.ActiveCfg = Release|Win32
+		{4EB40CD1-052D-47FF-9E78-233BB79DDB72}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
