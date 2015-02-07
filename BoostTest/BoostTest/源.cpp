@@ -17,5 +17,6 @@ int main()
 	std::cout << std::endl;
 	boost::timer  t;
 	std::cout << t.elapsed() <<"s"<< std::endl;
+	std::cout << "configure right"
 	return 0;
 }
